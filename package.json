@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "umi dev"
+  },
+  "devDependencies": {
+    "umi": "^2.7.5",
+    "umi-plugin-react": "^1.8.3"
+  }
+}
