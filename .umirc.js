@@ -23,8 +23,8 @@ export default {
   ],
   proxy: {
     '/api': {
-      target: 'https://k11-central.hofo.co',
+      target: 'https://humansa.hofo.co/',
       changeOrigin: true
-    },
+    }
   }
 }
