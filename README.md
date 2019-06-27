@@ -27,7 +27,7 @@ Book(图书档案) {
   Price(价格) number
   Date(购买日期) string
   IsDiscount(是否打折) boolean
-  UserRemark(用户备注) integer
+  UserRemark(用户备注) string
 }
 ```
 
