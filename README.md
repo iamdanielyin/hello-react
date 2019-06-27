@@ -1,4 +1,4 @@
-# hello-react
+# HELLO-REACT
 
 ## 项目安装
 
